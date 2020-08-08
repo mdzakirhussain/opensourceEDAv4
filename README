@@ -1,6 +1,6 @@
 Steps to install and run on UBUNTU:
 1) sudo apt-get install git
-2) git clone https://github.com/mdzakirhussain/opensourceEDAv3.git
+2) git clone https://github.com/mdzakirhussain/opensourceEDAv4.git
 3) cd opensourceEDAv3
 3) chmod 777 opensource_eda_tool_install.sh
 4) sudo ./opensource_eda_tool_install.sh 
@@ -13,7 +13,7 @@ Steps to install and run on UBUNTU:
 *********************
 Steps to install and run on Centos7:
 1) sudo yum install git
-2) git clone https://github.com/mdzakirhussain/opensourceEDAv3.git
+2) git clone https://github.com/mdzakirhussain/opensourceEDAv4.git
 3) cd opensourceEDAv3
 3) chmod 777 opensource_eda_tool_install_centos.sh
 4) sudo ./opensource_eda_tool_install_centos.sh 
